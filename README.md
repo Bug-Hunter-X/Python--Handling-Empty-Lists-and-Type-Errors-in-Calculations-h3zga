@@ -1,0 +1,1 @@
+This repository contains examples of common Python errors, specifically focusing on how to handle empty lists and type errors in calculations. The `bug.py` file shows a function that is vulnerable to these errors, while `bugSolution.py` provides a corrected and more robust version.
